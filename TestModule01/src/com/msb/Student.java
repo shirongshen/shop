@@ -7,4 +7,6 @@ package com.msb;
  * @Author: 石荣申
  */
 public class Student {
+    private int age;
+
 }
